@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Italy Quiz App</string>
+    <string name="Q1">What is the capital city of italy?</string>
+    <string name="Q2">What is italy most known dishes?</string>
+    <string name="Q3">What is italy known about?</string>
+    <string name="Q4">How many sides of Italy are bordered by a sea?</string>
+    <string name="Q5">Where is Italy?</string>
+
+</resources>
